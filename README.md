@@ -19,11 +19,11 @@ This project demonstrates a real-time hand gesture volume control system using P
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hand-gesture-volume-control.git
+    git clone https://github.com/Husniahmed10/Hand-Gesture-Volume-Control.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd hand-gesture-volume-control
+    cd Hand-Gesture-Volume-Control
     ```
 3. Install the required packages:
     ```bash
