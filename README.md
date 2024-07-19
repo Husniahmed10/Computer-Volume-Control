@@ -20,7 +20,6 @@ This project demonstrates a real-time hand gesture volume control system using P
 1. **Hand Detection**: The `handDetector` class uses MediaPipe to detect hand landmarks in the video feed.
 2. **Position Detection**: Extracts the positions of specific landmarks (thumb and index finger).
 3. **Volume Control**: Maps the distance between the thumb and index finger to the system volume level using PyCaw.
-4. **Visual Feedback**: Displays the hand landmarks, distance line, and volume level on the video feed for user feedback.
 
 ## Code Overview
 - `handDetector` class: Contains methods for hand detection and landmark position extraction.
