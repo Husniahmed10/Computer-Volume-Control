@@ -16,24 +16,6 @@ This project demonstrates a real-time hand gesture volume control system using P
 - PyCaw (for volume control)
 - comtypes
 
-## Setup and Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Husniahmed10/Hand-Gesture-Volume-Control.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Hand-Gesture-Volume-Control
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the project:
-    ```bash
-    python main.py
-    ```
-
 ## How it Works
 1. **Hand Detection**: The `handDetector` class uses MediaPipe to detect hand landmarks in the video feed.
 2. **Position Detection**: Extracts the positions of specific landmarks (thumb and index finger).
