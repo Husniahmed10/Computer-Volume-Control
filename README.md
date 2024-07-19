@@ -49,5 +49,3 @@ This project demonstrates a real-time hand gesture volume control system using P
 - Improve hand detection accuracy and performance.
 - Develop a user interface for easier interaction.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
